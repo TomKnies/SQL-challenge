@@ -53,3 +53,7 @@ from employees
 where last_name is not null
 group by last_name
 order by count(*) desc;
+
+-- Who am I?
+select * from employees
+where emp_no = '499942';
