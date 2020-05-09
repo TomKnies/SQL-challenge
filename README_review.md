@@ -18,3 +18,5 @@ memorized yet, but SQL is refershingly... straightforward?  In other challenges 
 I've struggled at times to figure out the right commands to input.  In SQL things feel more
 intuitive and it's not difficult to search how to pull specific information from your tables
 and columns.  It's a lot of fun!
+
+I am aware it's bad form to not all caps the command portions of the code.  Sorry.
